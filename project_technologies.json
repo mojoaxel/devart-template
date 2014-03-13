@@ -1,13 +1,17 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "twitter",
+            "instagram"
         ],
         "platforms": [
-            "insert platforms"
+            "raspberry pi",
+            "linux"
         ],
         "toolkits": [
-            "insert toolkits"
+            "nodejs",
+            "jquery",
+            "socketio"
         ]
     },
     "themes": [
