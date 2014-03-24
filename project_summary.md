@@ -1,33 +1,41 @@
-# Project Title
-Insert the name of your project
+# schneeige_bote
+
+"schneeige bote" is german and means something like "the snow-like one who brings the news".
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+
+- Alexander Wunschik - [mojoaxel](https://github.com/mojoaxel "GitHub Account")
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+
+News are unique like snow-flaks in there content, the sender and the time they were posted. By creating an installation that prints real-time "tweet-flakes" from all over the world on small thermo-paper snippets and let them "rain" down on the visitors. 
+The small and lightweight printouts "live" only a few seconds while the fly through the air before the are walked apon and forgotten. I want the visitors to realize that these *transience* and *worthlessness* mass of tweets under there shoose can also be picked up read, kept of thrown away.
+By combining a real-time node.js-backend with a lightway RaspberryPi module with an attached kiosk printer I want to show an alternative and haptic way to experience the tweets of the world.
+
 
 ## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
 
-[Example Link](http://www.google.com "Example Link")
+The first prototype was shown as part of the "art & beauty" exibition at the [Chaos-Communication-Camp 2007](http://events.ccc.de/camp/2007/Intro/):
+
+[The First Prototype from 2007](https://github.com/mojoaxel/twinter)
+
+There are also details on these prototype [in the posts](project_posts/2014-03-25-The-First-Prototype.md)
 
 ## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
-```
-function test() {
-  console.log("Printing a test");
-}
-```
-## Links to External Libraries
- NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
 
-[Example Link](http://www.google.com "Example Link")
+```perl
+$tcp2k->set_text_size(3);
+$tcp2k->set_style( $STYLE_BOLD );
+$tcp2k->print_text( $hash );	
 
+$tcp2k->set_text_size(0);
+$tcp2k->set_char_width(0);
+$tcp2k->set_style( $STYLE_NONE );
+$tcp2k->print_text( "hacked together in perl by" );
+$tcp2k->set_style( $STYLE_BOLD );
+$tcp2k->print_text( 'mojoaxel, @wunschik, http://delphiN.soup.io' ); 
+```
 ## Images & Videos
-NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
+![First Prototype 2007](project_images/BarbicanFoyerPrinter-CCSABY-Jknight1603.jpg)
 
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
