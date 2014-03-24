@@ -1,6 +1,6 @@
 # schneeiger_bote
 
-"schneeige bote" is artificial German and means something like "the snow-like one who brings the news".
+"schneeige bote" is artificial German and means something like "the snow-like bringer of the news".
 
 ## Authors
 
