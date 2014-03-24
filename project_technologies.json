@@ -2,7 +2,7 @@
     "technologies": {
         "apis": [
             "twitter",
-            "instagram"
+            "app.net"
         ],
         "platforms": [
             "raspberry pi",
@@ -10,11 +10,15 @@
         ],
         "toolkits": [
             "nodejs",
-            "jquery",
-            "socketio"
+            "socketio" 
         ]
     },
     "themes": [
-        "insert themes"
+        "mass",
+        "dataflood",
+        "banality",
+        "haptic",
+        "uncountable",
+        "transience",
     ]
 }
