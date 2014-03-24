@@ -19,7 +19,7 @@ By combining a real-time node.js-backend with multible RaspberryPi modules with 
 
 The [first prototype](project_posts/2014-03-24-The-First-Prototype.md) was shown as part of the "art & beauty" exhibition at the Chaos-Communication-Camp 2007. There long ribbon with the conference hashtag were created an hang up to create a curtain to walk through:
 
-![artistik shot](../project_images/2014-03-25-CCCCamp07-CCSABY-mlcastle_1000x500.jpg "CC-BY-SA by mlcastle")
+![artistik shot](project_images/2014-03-25-CCCCamp07-CCSABY-mlcastle_1000x500.jpg "CC-BY-SA by mlcastle")
 
 ## Example Code
 

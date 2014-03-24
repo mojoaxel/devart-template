@@ -10,11 +10,9 @@ Not long after starting I realized that there was only a windows driver for my p
 
 With the help of some colleges at the hackerspace I even [got the line printer driver from linux to work](http://k4cg.org/k4cg:projekte:rss-drucker) and we could start printing. At this time twitter still has a free RSS-feed Api so I started printing out Tweets with specific tags.
 
-Despite of some problems with by tool I was part of an "art & beauty" exhibition at the [Chaos-Communication-Camp 2007](http://events.ccc.de/camp/2007/Intro/). Here is an nice shot of the news flood from the exibition at the [Chaos-Communication-Camp 2007](http://events.ccc.de/camp/2007/Intro/) [mlcastle](https://secure.flickr.com/photos/mlcastle/):
+Despite of some problems with my tool I was part of an "art & beauty" exhibition at the [Chaos-Communication-Camp 2007](http://events.ccc.de/camp/2007/Intro/). Long ribbons with conference tweets were created an hang up to create a curtain to walk through:
 
-The first prototype was displayed as part of the "art & beauty" exhibition at the Chaos-Communication-Camp 2007. There long ribbon with the conference hashtag were created an hang up to create a curtain to walk through:
-
-![artistik shot](project_images/2014-03-25-CCCCamp07-CCSABY-mlcastle.jpg "CC-BY-SA by mlcastle")
+![artistik shot](../project_images/2014-03-25-CCCCamp07-CCSABY-mlcastle.jpg "CC-BY-SA by mlcastle")
 
 ### Links ###
 
