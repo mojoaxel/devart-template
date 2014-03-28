@@ -38,3 +38,21 @@ $tcp2k->print_text( "hacked together in perl by" );
 $tcp2k->set_style( $STYLE_BOLD );
 $tcp2k->print_text( 'mojoaxel, @wunschik, http://delphiN.soup.io' ); 
 ```
+
+And here some snippets of the new javascript code:
+
+```js
+try {
+	_socket = io.connect("http://localhost:2000/");
+	_socket.on("new tweet", function(tweet) {
+    	newTweet(tweet);
+	});
+	_socket.on("connected", function(r) {
+    	$("head").find("title").html("Tracking now: " + r.tracking);
+    	$(".tracking").html(r.tracking);
+    	emitMsj("start stream");
+	});
+} catch(err) {
+	console.error("SOCKET-IO ERROR: ", err);
+}
+```
