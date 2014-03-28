@@ -17,5 +17,5 @@ Despite the problems, I was part of an "art & beauty" exhibition at the [Chaos-C
 
 ### Links ###
 
-* [The perl prototype from 2007](https://github.com/mojoaxel/twinter)
+* [The perl prototype from 2007](../project_code/V1/)
 * [How to set up the printer](http://k4cg.org/k4cg:projekte:rss-drucker) on Ubuntu
