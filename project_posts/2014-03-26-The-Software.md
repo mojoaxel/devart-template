@@ -19,7 +19,7 @@ At the moment there are no queues implemented so that only one client should con
 
 Because I have no suitable printer at the moment (should arrive in a few days) I wrote a simple tweet-wall application to print/show the live tweets in the browser.
 
-[client source][Backend Source](../project_code/V2/client)
+[client source](../project_code/V2/client)
 
 
 ## Demo ##
