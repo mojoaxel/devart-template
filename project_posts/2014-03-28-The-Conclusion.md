@@ -1,6 +1,6 @@
 ## The Conclusion ##
 
-Now it is the 28.03.2014 17:45 - 15 minutes to the submission deadline - and I can report that I have taken some important steps to realizing the installation:
+Now it is the 28.03.2014 17:00 GMT - one hour to the submission deadline - and I can report that I have taken some important steps to realizing the installation:
  * I have a concept and know what I want do do
  * I found a suitable printer and a supplier who is willing to provide me with a test-device for development.
  * I have also taken some major steps in implementing the software, registered an API-Key at Twitter and have a running demo-client with streaming live tweets.
