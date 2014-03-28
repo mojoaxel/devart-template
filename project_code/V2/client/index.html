@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>schneeiger bote</title>
+    <link rel="stylesheet" href="css/styles.css"/>
+</head>
+<body>
+
+<div id="header">
+    <div>
+        <h1>Real-time Tweets with tags <span class="tracking"></span></h1>
+        <p>Tweets started: <span class="datetime"></span></p>
+        <p>Tweets since page load: <span class="numTweets">0</span></p>
+    </div>
+</div>
+
+<div id="body">
+	<div id="tweetlist" class="wrap">
+	    <ul class="paperstrip"></ul>
+	</div>
+</div>
+
+<script type="text/javascript" src="js/socket.io.js"></script>
+<script type="text/javascript" src="js/jquery-1.10.1.min.js"></script>
+<script type="text/javascript" src="js/jquery.qrcode.min.js"></script>
+<script type="text/javascript" src="js/jquery.pause.min.js"></script>
+<script type="text/javascript" src="js/client.js"></script>
+<script type="text/javascript">
+    $(_client.init);
+</script>
+
+</body>
+</html>
