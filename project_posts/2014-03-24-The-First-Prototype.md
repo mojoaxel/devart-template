@@ -13,7 +13,7 @@ I had some problems with my Perl scripts and the printer's cutter and so I decid
 
 Despite the problems, I was part of an "art & beauty" exhibition at the [Chaos-Communication-Camp 2007](http://events.ccc.de/camp/2007/Intro/).
 
-![artistik shot](../project_images/2014-03-25-CCCCamp07-CCSABY-mlcastle.jpg "CC-BY-SA by mlcastle")
+![artistik shot](../project_images/2014-03-25-CCCCamp07-CCSABY-mlcastle_1000x500.jpg "CC-BY-SA by mlcastle")
 
 ### Links ###
 
