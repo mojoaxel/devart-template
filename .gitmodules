@@ -1,0 +1,3 @@
+[submodule "project_code/V1"]
+	path = project_code/V1
+	url = git@github.com:mojoaxel/twinter.git

@@ -8,9 +8,9 @@
 
 ## Description
 
-News are unique like snow-flakes in their content, the sender and the time they were posted. I want to create an installation that prints real-time "tweet-flakes" from all over the world on small thermal-paper snippets and lets them "rain" down on the visitors. 
-The small and lightweight printouts "live" for only a few seconds while the fly through the air before they are walked upon and forgotten. 
-I want the visitors to realize that the *transient* and *worthless* mass of *creaking* tweets under their shoes can also be picked up again, read, kept, or thrown away. 
+News are unique like snow-flakes because of their content, the sender and the time they were posted. I want to create an installation that prints real-time "tweet-flakes" from all over the world on small thermal-paper snippets and lets them "rain" down on the visitors. 
+The small and lightweight printouts "live" for only a few seconds while they fly through the air before they are walked upon and forgotten. 
+I want to give the visitors the chance to experience the *transient* and *seemingly worthless* mass of tweets by hearing them *creak* under their shoes, by picking them up again, reading them, keeping them, or throwing them away again. 
 By combining a real-time node.js-backend with multiple RaspberryPi modules with attached kiosk printers I want to show an alternative and haptic way to experience some random tweets from around the world.
 
 ![concept sketch](project_images/BarbicanFoyerPrinter-CCSABY-Jknight1603.jpg)
@@ -19,7 +19,8 @@ By combining a real-time node.js-backend with multiple RaspberryPi modules with 
 
 The [first prototype](project_posts/2014-03-24-The-First-Prototype.md) was shown as part of the "art & beauty" exhibition at the Chaos-Communication-Camp 2007. There, long ribbons with the conference hashtag were created and hung up to create a curtain to walk through:
 
-![artistik shot](project_images/2014-03-25-CCCCamp07-CCSABY-mlcastle_1000x500.jpg "CC-BY-SA by mlcastle")
+The second prototype has a socket.io-web-client witch dispays real-time tweets.
+The demo-application is [running here](http://95.85.40.145:9100/)
 
 ## Example Code
 
